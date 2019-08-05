@@ -4,7 +4,7 @@ public class Stringreverse {
 
 	public static void main(String[] args) {
 		
-		String s="jayanthsivanantham";
+		String s="kavinkumarmani";
 		String rev="";
 		int len=s.length();
 		System.out.println(len);
